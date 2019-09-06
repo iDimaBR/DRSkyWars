@@ -1,0 +1,6 @@
+name: LightSkyWars
+author: iDimaBR
+main: com.idimabr.lightskywars.Main
+version: 1.0
+commands:
+    sw:
